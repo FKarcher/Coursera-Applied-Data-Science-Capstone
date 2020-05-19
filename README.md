@@ -1,1 +1,1 @@
-# Coursera-Applied-Data-Science-Capstone
+# Coursera IBM Data Science Class 9 Capstone Project
